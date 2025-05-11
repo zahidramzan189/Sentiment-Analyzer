@@ -1,0 +1,29 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directory
+.venv/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore system files and folders
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+.gitconfig
+.lesshst
+.matplotlib/
+.cache/
