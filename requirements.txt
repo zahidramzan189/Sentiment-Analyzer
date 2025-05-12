@@ -1,5 +1,4 @@
-flask
-transformers
-torch
+Flask
+scikit-learn
 nltk
-vaderSentiment
+joblib
